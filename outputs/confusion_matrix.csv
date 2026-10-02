@@ -1,0 +1,3 @@
+,predicted_benign,predicted_malignant
+actual_benign,71,1
+actual_malignant,2,40
